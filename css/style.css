@@ -56,6 +56,7 @@ header ul {
     display: flex;
     gap: 50px;
     margin: 0 !important;
+    justify-content: center;
 }
 
 nav li {
@@ -890,4 +891,44 @@ footer {
 .your-class img {
     width: 200px;
     width: 100%;
+}
+
+/* ****************toggle************* */
+
+
+.toggle-bt {
+    display: none;
+}
+
+.toggle-bt div {
+    background-color:red;
+    height: 5px;
+    width: 30px;
+    border-radius: 10px;
+    position: relative;
+    transition: 0.3s;
+    margin-right: 20px;
+}
+
+.nd {
+    width: 20px !important;
+}
+
+.toggle-bt.clicked .st {
+    transform: rotate(45deg);
+    top: 13px;
+}
+
+.toggle-bt.clicked .nd {
+    transform: translateX(20px);
+    opacity: 0;
+}
+
+.toggle-bt.clicked .rd {
+    transform: rotate(-45deg);
+    bottom: 7px;
+}
+
+.ul-none{
+    display: none;
 }
