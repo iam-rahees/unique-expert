@@ -1,0 +1,594 @@
+@media screen and (max-width:1399px) {
+    .vision-mission {
+        gap: 50px;
+    }
+
+    .card-img {
+        justify-content: flex-start;
+    }
+
+    /* .tools-card-icon {
+        top: 37%;
+    } */
+}
+
+@media screen and (max-width:1200px) {
+    .bnr-cnt h1 {
+        font-size: 3.4rem;
+    }
+
+    .tools-card-cnt p {
+        font-size: 15px;
+    }
+
+    .about-heading h2 {
+        font-size: 47px !important;
+    }
+
+    .tools-all-card {
+        gap: 40px;
+    }
+
+
+    .bnr-cnt p {
+        max-width: 669px;
+        font-size: 20px;
+    }
+
+    .bnr-cnt {
+        gap: 20px;
+    }
+
+    .card-img img {
+        width: 100%;
+    }
+
+    .tools-card-icon {
+        top: 34%;
+        height: 70px;
+        width: 70px;
+    }
+
+    .tools-card-icon img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .tools-card-cnt p {
+        max-width: 235px;
+    }
+
+    .tools-card-cnt {
+        padding-left: 19px;
+    }
+
+    .tools-card-cnt h3 {
+        font-size: 26px;
+    }
+
+    .partners-img {
+        flex-wrap: wrap;
+    }
+
+    .card-bg {
+        height: 323px;
+        width: 279px;
+    }
+
+    .client-say p {
+        font-size: 14px;
+        /* max-width: 230px; */
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .bnr-cnt h1 {
+        font-size: 3.2rem;
+    }
+
+    .card-cnt {
+        padding-left: 15px;
+    }
+
+    .img-cnt p {
+        max-width: 670px;
+        font-size: 15px;
+    }
+
+    .img-cnt h2 {
+        font-size: 3rem !important;
+    }
+
+
+}
+
+@media screen and (max-width:992px) {
+    ul {
+        gap: 33px;
+    }
+
+    .bnr-cnt h1 {
+        font-size: 2.7rem;
+    }
+
+    .bnr-cnt p {
+        max-width: 529px;
+        font-size: 17px;
+    }
+
+    .contact i {
+        font-size: 17px;
+    }
+
+    .contact a {
+        font-size: 18px;
+    }
+
+    .contact {
+        padding: 19px 17px;
+    }
+
+    .about-heading h2 {
+        font-size: 36px !important;
+    }
+
+    h2 {
+        font-size: 36px !important;
+    }
+
+    .about-p p {
+        font-size: 13px;
+    }
+
+    .vision-mission p {
+        line-height: 20px;
+        font-size: 13px;
+    }
+
+    .vision-mission b {
+        font-size: 20px;
+    }
+
+    .vision-mission {
+        gap: 17px;
+    }
+
+    .vision-img img {
+        width: 34px;
+    }
+
+    .vision-img {
+        padding: 8px;
+    }
+
+    .mission-img img {
+        width: 34px;
+    }
+
+    .mission-img {
+        padding: 8px;
+    }
+
+    .mission {
+        gap: 15px;
+    }
+
+    .vision {
+        gap: 15px;
+    }
+
+    .heading h4 {
+        font-size: 21px;
+    }
+
+    .icon-cnt img+p+p {
+        font-size: 19px;
+    }
+
+    .icon-cnt img+p {
+        font-size: 55px;
+    }
+
+    .icon-cnt img {
+        width: 43px;
+    }
+
+    .card-cnt p {
+        line-height: 21px;
+        font-size: 13px;
+    }
+
+    .product-card {
+        margin-top: 40px;
+    }
+
+    .card-cnt h3 {
+        font-size: 30px;
+    }
+
+    .card-cnt {
+        gap: 8px;
+        padding-left: 10px;
+    }
+
+    .feedback-card {
+        padding: 33px 14px;
+        gap: 11px;
+    }
+
+    .client-name p {
+        font-size: 13px;
+    }
+
+    .client-say p {
+        font-size: 13px;
+    }
+
+    .client-name b {
+        font-size: 21px;
+    }
+
+    .feeedback-img img {
+        top: -61px;
+        width: 60px;
+        left: -29px;
+    }
+
+    .card-bg {
+        height: 283px;
+        width: 214px;
+    }
+
+    .tools-card-icon {
+        top: 31%;
+        height: 60px;
+        width: 60px;
+    }
+
+    .tools-card-icon img {
+        width: 30px;
+    }
+
+    .tools-card-cnt h3 {
+        font-size: 25px;
+    }
+
+    .tools-card-cnt p {
+        font-size: 13px;
+        max-width: 200px;
+    }
+
+    .tools-card-cnt {
+        padding-top: 38px;
+    }
+
+    .header-cnt img {
+        width: 115px;
+    }
+
+    li a {
+        font-size: 14px;
+    }
+
+    p.count-text {
+        font-size: 18px;
+    }
+
+    .tools-all-card {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .tools-card-icon {
+        top: 44%;
+    }
+
+    .tools-card-cnt {
+        height: 190px;
+    }
+}
+
+
+@media screen and (max-width:768px) {
+    .bnr-slider {
+    background-position: right;
+}
+
+    header nav ul {
+        display: none;
+    }
+
+    .bnr-cnt {
+        gap: 30px;
+    }
+
+    .bnr-cnt p {
+        max-width: 429px;
+        font-size: 14px;
+    }
+
+    .bnr-cnt h1 {
+        font-size: 2.2rem;
+    }
+
+    .contact a {
+        font-size: 16px;
+    }
+
+    .contact i {
+        font-size: 15px;
+    }
+
+    .contact {
+        padding: 14px 10px;
+    }
+
+    .learn-more {
+        padding: 10px 10px;
+        font-size: 15px;
+    }
+
+    .heading h4 {
+        font-size: 18px;
+    }
+
+    .about-heading h2 {
+        font-size: 36px !important;
+        margin-bottom: 20px !important;
+    }
+
+    .mission-img img {
+        width: 28px;
+    }
+
+    .vision-img img {
+        width: 28px;
+    }
+
+    .vision-mission {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .card-img img {
+        margin-bottom: 35px;
+    }
+
+    .none {
+        display: flex;
+    }
+
+    .none-2 {
+        display: none;
+    }
+
+    .tools-all-card {
+        margin-top: -30px !important;
+    }
+
+    .card-cnt {
+        gap: 15px;
+    }
+
+    .tools-card-cnt h3 {
+        font-size: 32px;
+    }
+
+    .tools-card-cnt p {
+        font-size: 16px;
+        max-width: 470px;
+    }
+
+    .tools-all-card {
+        grid-template-columns: repeat(1, 1fr);
+        padding-top: 65px;
+    }
+
+    /* .tools-card-icon {
+        top: 57%;
+    } */
+
+    .img-cnt p {
+        max-width: 670px;
+        font-size: 14px;
+    }
+
+    .img-cnt h2 {
+        font-size: 2.7rem !important;
+    }
+
+    .team-img {
+        margin-top: 40px;
+    }
+
+
+    .gap-phone {
+        display: flex;
+        gap: 40px;
+    }
+
+    .feedback-card {
+        padding: 33px 22px;
+    }
+
+    .client-say p {
+        font-size: 13px;
+        /* max-width: 287px; */
+    }
+
+    .gap-footer {
+        margin: 45px 0;
+    }
+
+    .footer-vision {
+        margin-bottom: 40px;
+    }
+
+    .footer-2 p {
+        font-size: 12px;
+    }
+
+    .social img {
+        height: 20px;
+    }
+
+    .number-count {
+        gap: 50px;
+    }
+
+    .center {
+        display: flex;
+        justify-content: center;
+    }
+
+    .gap-phone {
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-width:575px) {
+    .bnr-cnt h1 {
+        font-size: 2rem;
+    }
+
+    .contact a {
+        display: none;
+    }
+
+    .img-cnt h2 {
+        font-size: 2.3rem !important;
+    }
+
+    .img-cnt p {
+        font-size: 13px;
+    }
+
+    .tools-card-cnt h3 {
+        font-size: 28px;
+    }
+
+    .card-cnt h3 {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .tools-card-icon {
+        /* top: 56%; */
+    }
+
+    .tools-card-cnt {
+        padding-top: 44px;
+    }
+}
+
+@media screen and (max-width:525px) {
+    /* .tools-card-icon {
+        top: 55%;
+    } */
+}
+
+@media screen and (max-width:515px) {
+    /* .tools-card-icon {
+        top: 54%;
+    } */
+}
+
+@media screen and (max-width:500px) {
+    /* .tools-card-icon {
+        top: 53%;
+    } */
+}
+
+@media screen and (max-width:480px) {
+    .bnr-cnt h1 {
+        font-size: 1.9rem;
+    }
+
+    /* .tools-card-icon {
+        top: 52%;
+    } */
+
+    .bnr-cnt p {
+        max-width: 349px;
+    }
+
+    .about-heading h2 {
+        font-size: 30px !important;
+    }
+
+    h2 {
+        font-size: 30px !important;
+    }
+}
+
+@media screen and (max-width:460px) {
+    /* .tools-card-icon {
+        top: 51%;
+    } */
+}
+
+@media screen and (max-width:445px) {
+    .tools-card-icon {
+        top: 50%;
+    }
+}
+
+@media screen and (max-width:435px) {
+    .tools-card-icon {
+        top: 49%;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .bnr-cnt h1 {
+        font-size: 1.7rem;
+    }
+
+    .bnr-cnt p {
+        max-width: 319px;
+    }
+
+    .tools-card-icon {
+        top: 48%;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .tools-card-icon {
+        top: 47%;
+    }
+}
+
+@media screen and (max-width:395px) {
+    .tools-card-icon {
+        top: 46%;
+    }
+}
+
+@media screen and (max-width:385px) {
+    .tools-card-icon {
+        top: 45%;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .feedback-card {
+        padding: 20px;
+    }
+
+    .tools-card-icon {
+        top: 44%;
+    }
+    .tools-card-cnt {
+    height: 205px;
+}
+}
+
+@media screen and (max-width:355px) {
+
+    .tools-card-icon {
+        top: 43%;
+    }
+}
