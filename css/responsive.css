@@ -105,7 +105,7 @@
     }
 
     .bnr-cnt h1 {
-        font-size: 2.7rem;
+        font-size: 2.9rem;
     }
 
     .bnr-cnt p {
@@ -301,7 +301,7 @@
     }
 
     .bnr-cnt h1 {
-        font-size: 2.2rem;
+        font-size: 2.9rem;
     }
 
     .contact a {
@@ -476,7 +476,7 @@
 
 @media screen and (max-width:575px) {
     .bnr-cnt h1 {
-        font-size: 2rem;
+        font-size: 2.4rem;
     }
 
 
@@ -517,7 +517,7 @@
 
 @media screen and (max-width:480px) {
     .bnr-cnt h1 {
-        font-size: 1.9rem;
+        font-size: 2.4rem;
     }
 
     .bnr-cnt p {
@@ -538,7 +538,7 @@
 
 @media screen and (max-width:425px) {
     .bnr-cnt h1 {
-        font-size: 1.7rem;
+        font-size: 2.4rem ;
     }
 
     .bnr-cnt p {
