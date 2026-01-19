@@ -793,19 +793,19 @@ footer {
 
 .slider-img1 {
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.151), rgba(0, 0, 0, 0.247)),
+        linear-gradient(rgba(0, 0, 0, 0.151), rgba(0, 0, 0, 0.532)),
         url(../img/hero-img-1.webp);
 }
 
 .slider-img2 {
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.735), rgba(0, 0, 0, 0.6)),
+        linear-gradient(rgba(0, 0, 0, 0.801), rgba(0, 0, 0, 0.6)),
         url(../img/hero-img-2.jpg);
 }
 
 .slider-img3 {
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.361), rgba(0, 0, 0, 0.6)),
+        linear-gradient(rgba(0, 0, 0, 0.632), rgba(0, 0, 0, 0.751)),
         url(../img/hero-img-3.jpg);
 }
 
