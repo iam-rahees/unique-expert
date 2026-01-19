@@ -308,9 +308,9 @@ p.count-text {
     gap: 20px;
 }
 
-.card-img{
+.card-img {
     display: flex;
-    justify-content:center;
+    justify-content: center;
 }
 
 .card-cnt h3 {
@@ -333,19 +333,21 @@ p.count-text {
 
 
 
-.tools-card{
+.tools-card {
     position: relative;
     border-radius: 15px;
     background-color: #EDEDED;
     overflow: hidden;
     height: calc(100% -10px);
 }
-.tools-card-img{
+
+.tools-card-img {
     height: 200px;
     width: 100%;
     overflow: hidden;
 }
-.tools-card-img .main_tool{
+
+.tools-card-img .main_tool {
     height: 100%;
     width: 100%;
     object-fit: cover;
@@ -368,8 +370,8 @@ p.count-text {
     border-radius: 100%;
     border: solid 4px #EDEDED;
     position: absolute;
-    top: 160px;  
-    left: 10px;
+    top: 160px;
+    left: 20px;
     height: 80px;
     width: 80px;
     display: flex;
@@ -464,7 +466,7 @@ p.count-text {
 
 
 /* **************100vh*************** */
-.res .slick-slide{
+.res .slick-slide {
     padding: 16px;
 }
 
@@ -539,8 +541,8 @@ p.count-text {
     z-index: -1;
 }
 
-.gap-phone .slick-slide{
-    padding: 40px 15px 10px 15px;
+.gap-phone .slick-slide {
+    padding: 40px 20px 30px 20px;
     width: 100%;
 }
 
@@ -559,9 +561,13 @@ p.count-text {
     position: relative;
 }
 
-.feedback-card:hover .card-bg{
+.feedback-card:hover .card-bg {
     transform: rotate(0);
     transition: all 0.3s ease;
+}
+
+.padding {
+    padding: 20px;
 }
 
 
@@ -602,8 +608,8 @@ p.count-text {
 
 
 .slick-dots {
-        display: none !important;
-    }
+    display: none !important;
+}
 
 
 
@@ -785,15 +791,21 @@ footer {
 
 
 .slider-img1 {
-    background-image: url(../img/hero-img-1.webp);
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.151), rgba(0, 0, 0, 0.247)),
+        url(../img/hero-img-1.webp);
 }
 
 .slider-img2 {
-    background-image: url(../img/hero-img-2.jpg);
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.735), rgba(0, 0, 0, 0.6)),
+        url(../img/hero-img-2.jpg);
 }
 
 .slider-img3 {
-    background-image: url(../img/hero-img-3.jpg);
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.361), rgba(0, 0, 0, 0.6)),
+        url(../img/hero-img-3.jpg);
 }
 
 .bnr-slider {
@@ -808,7 +820,7 @@ footer {
 
 .bnr-cnt {
     color: #fff;
-    width: 60%;
+    width: 70%;
 
 }
 
