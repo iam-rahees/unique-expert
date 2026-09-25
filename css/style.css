@@ -801,14 +801,14 @@ footer {
 
 .slider-img1 {
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.717), rgba(0, 0, 0, 0.532)),
-        url(../img/hero-img-1.jpg);
+        linear-gradient(rgba(0, 0, 0, 0.461), rgba(0, 0, 0, 0.532)),
+        url(../img/hero-img-2.jpg);
 }
 
 .slider-img2 {
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.6)),
-        url(../img/hero-img-2.jpg);
+        linear-gradient(rgba(0, 0, 0, 0.726), rgba(0, 0, 0, 0.6)),
+        url(../img/hero-img-1.jpg);
 }
     
 .slider-img3 {
